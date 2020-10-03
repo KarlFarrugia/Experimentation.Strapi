@@ -1,6 +1,6 @@
-# Experimentation.Strapi
+# Strapi application
 
-Using linux terminal
+A quick description of your strapi application
 
 Available commands in your project:
 
@@ -20,4 +20,3 @@ You can start by doing:
 
   cd /mnt/c/Users/User/my-project
   yarn develop
-  
